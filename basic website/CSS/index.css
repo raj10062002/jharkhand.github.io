@@ -1,0 +1,144 @@
+nav{
+    background-color: rgb(26 120 163);
+    padding: 20px;
+    word-spacing: 50px;}
+    .DIV1{
+        background-color: #889b9b;
+        WIDTH:100%;
+        height: 300px;
+       margin-top: -50px;
+    }
+    BODY{
+        MARGIN:0PX;
+    }
+    A{
+        COLOR:WHITE;
+    }
+    .IMG1{
+        width: 15%;
+        HEIGHT: 250px;
+        padding: 20px;
+    }
+    .IMG2{
+        WIDTH:25%;
+        padding:30px;
+       
+    }
+    .FLOAT-RIGHT{
+        float: right;
+    }
+    .FLOAT-LEFT{
+        float: left;
+    }
+    .CENTER{
+        align-items: center;
+    }
+    .BIGGER{
+        padding: 50PX;
+        font-size: xxx-large;
+    }
+    .BIGBLOCK{
+        width: 100%;
+        height: 840PX;
+        margin-top: -20PX;
+        padding-top: 20PX;
+        background-color: rgb(96, 67, 124);
+        
+        
+    }
+    .IMG3{
+        width: 20%;
+        padding-right: 30PX;
+    
+    }
+    PRE{
+        color: rgb(172, 148, 148);
+    }
+    .SPACE{
+        padding-left: 130PX;
+        word-spacing: 150px;
+    }
+    .DISPLAYINLINE{
+        display: inline-flex;
+        
+    }
+    .SPACE2{
+        padding-left: 130PX;
+        word-spacing: 230PX;
+    }
+    .ABOUTPADDING{
+        padding-left: 130PX;
+    }
+    .GOVPADDING{
+        padding-left:2%;
+    }
+    PRE{
+        font-size: large;
+        color: black;
+    }
+    footer{
+        width: 100%;
+        height:30px;
+        background-color:rgb(26 120 163);
+        font-size: large;
+        padding-top: 10px;
+        margin-top: -16px;
+    }
+    .backimg{
+        background-image: url(../BACKGROUND.jpg);
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .ABSOLUTE{
+        position: absolute;
+        
+    }
+    .PADDING{
+        padding-left: 18%;
+    }
+    .FONTPADDING{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .HISTORYDIV{
+        background-color: rgb(139, 130, 45);
+        margin-top: -21PX;
+    }
+    .VIDHAN{
+        background-image: url(../VIDHANSHABHA.jpg);
+        background-size: cover;
+    }
+    .CULTUREDIV{
+        background-color: #4f5555;
+        PADDING-top:15PX ;
+    }
+    .BTWPADDING{
+        padding: 15PX;
+    }
+    .TOURISMDIV{
+        margin-top: -20PX;
+        
+        height: 300PX;
+        background-image: url(../5.jpg);
+                
+    }
+    .TOURISMDIV2{
+        margin-top: -20PX;
+        padding-top: 20PX;
+        background-color: rgb(22, 109, 112);
+    }
+    .TOURDIV3{
+        margin-top: -20PX;
+        padding-top: 20PX;
+        height: 800PX;
+        background-image: url(../Dimna_Lake\,_Jamshedpur.jpg);
+        background-size: cover;
+        opacity: 92%;
+    }
+    .TEXTCOLOR{
+        color: rgb(215, 233, 57);
+    }
+    .TOURCOLOR{
+        color: rgb(125, 211, 129);
+    }
+    
