@@ -85,7 +85,7 @@ nav{
         margin-top: -16px;
     }
     .backimg{
-        background-image: url(../BACKGROUND.jpg);
+        background-image: url(./BACKGROUND.jpg);
         padding-left: 15px;
         padding-right: 15px;
     }
